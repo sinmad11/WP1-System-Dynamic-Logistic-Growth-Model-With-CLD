@@ -1,2 +1,3 @@
 # System-Dynamic-Logistic-Growth-Model-With-CLD
-This is an image of a CLD attached to the model of a logistic growth curve using the System Dynamics Modeller in NetLogo
+The model imports a CLD from the user's own files and implements the logistic growth curve model using the System Dynamics Modeller in NetLogo.
+
